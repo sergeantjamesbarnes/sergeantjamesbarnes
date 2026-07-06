@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&duration=3500&pause=500&color=6E6B6A&center=true&vCenter=true&width=349&lines=don't+do+anything+stupid+until+i+come+back." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&duration=3500&pause=500&color=9F8F76FF&center=true&vCenter=true&width=349&lines=don't+do+anything+stupid+until+i+come+back." alt="Typing SVG" /></a>
     
 <p align="left"> <img width="349" height="101" alt="pianobanner" src="https://github.com/user-attachments/assets/ea70c45a-b78b-49ca-9ded-4f2b77580a5e" />
  </p>
@@ -14,3 +14,24 @@ fictionkin | kintwins welcome | chaotic evil intp
 ${\color{#9f8f76}sergeant \space \space \space \space \space \space \space sad \space \space \space \space \space \space \space eyes \space \space \space \space \space \space \space reporting \space \space \space \space \space \space \space \space for \space \space \space \space \space \space \space misery}$
 <p align="left">
 <img align="left" width="339" height="101" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ai4h7whh7g3pw2gbihy4ae8xy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=a6907c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> </p>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<details>
+  <summary>${\color{#9f8f76}before \space \space \space \space \space \space you \space \space \space \space \space \space interact \space \space \space \space \space \space \space . \space \space \space \space \space \space \space . \space \space \space \space \space \space \space .}$</summary>
+    
+${\color{#cbc2b3}i \space consider \space myself \space nonhuman.}$
+
+${\color{#cbc2b3}i \space have \space difficulty \space with \space tone. \space please \space tell \space me \space if \space i \space am \space being \space rude \space or \space causing \space you \space discomfort. \space it \space is \space not \space my \space intention.}$
+${\color{#cbc2b3}i \space mimic \space the \space behavior \space of \space those \space around \space me \space frequently.}$
+
+${\color{#cbc2b3}i \space am \space often \space multitasking. \space please \space do \space not \space be \space afraid \space to \space whisper \space me \space or \space send \space another \space message \space if \space i \space do \space not \space reply.}$
+
+${\color{#cbc2b3}i \space sometimes \space speak \space in \space third \space person.}$
+    
+${\color{#cbc2b3}i \space promise \space i \space do \space not \space bite. \space come \space and \space say \space hi \space !}$
+    
+</details>
