@@ -31,6 +31,8 @@ ${\color{#cbc2b3}i \space mimic \space the \space behavior \space of \space thos
 ${\color{#cbc2b3}i \space am \space often \space multitasking. \space please \space do \space not \space be \space afraid \space to \space whisper \space me \space or \space send \space another \space message \space if \space i \space do \space not \space reply.}$
 
 ${\color{#cbc2b3}i \space sometimes \space speak \space in \space third \space person.}$
+
+${\color{#cbc2b3}you \space will \space be \space blocked \space if \space you \space are \space interacting \space with \space me \space just \space because \space my \space kintype(s)\ are \space your \space selfship(s).}$
     
 ${\color{#cbc2b3}i \space promise \space i \space do \space not \space bite. \space come \space and \space say \space hi \space !}$
     
